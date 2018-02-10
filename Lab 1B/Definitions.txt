@@ -1,0 +1,65 @@
+1. #include <iostream>
+Preprocess directive which includes the contents of a header file,
+in this case iostream in the program
+2. flowchart
+Flowchart is a diagrammatic representation of an algorithm. Flowcharts 
+are very helpful in writing program and explaining program to others.
+3. syntax
+he syntax of a programming language is the set of rules that define the 
+combinations of symbols that are considered to be correctly structured 
+programs in that language
+4. IDE
+An integrated development environment (IDE) is a software application 
+that provides comprehensive facilities to computer programmers for 
+software development
+5. main function
+Every C++ program has a main function which is called immediately after
+the startup
+6. comments
+comments are used to make your code more readable, are helpful for reminding
+you what your code does and helps other read it as well
+7. expression
+An expression in a programming language is a combination of one or more explicit
+values, constants, variables, operators, and functions that the programming language
+interprets and computes to produce a return value
+8. operator
+Operators are symbols that helps us to perform specific mathematical and logical 
+computations on operands
+9. case sensitive
+Upper and lower case text are treated as distinct
+10. psuedocode
+a notation resembling a simplified programming language, used in program design.
+11. camelCase 
+ typographical convention in which an initial capital is used for the first letter 
+ of a word forming the second element of a closed compound
+12. underscore_case
+is the practice of writing compound words or phrases in which the elements are 
+separated with one underscore character (_) and no spaces
+13. cin.get()
+cin.get() takes any single keystroke including enter, tab, and whitespace whereas cin only takes in characters
+14. return 0
+The return value of the main function is considered tge "Exit status" and systems return 0 usually mean that
+the program executed properly
+15. console window
+a window in which output of a program can be displayed
+16. endl
+endl is used to move the cout object to the next line
+17. literal
+constants refer to fixed values that the program may not alter and they are called literals
+18. variable
+A variable provides us with named storage that our programs can manipulate
+19. text file
+Text file" refers to a type of container
+20. compiler
+A compiler is a special program that processes statements written in a particular programming 
+language and turns them into machine language or "code" that a computer's processor uses
+21. object file
+Object files are compiled by the program and contain machine code but haven't yet been linked
+so refernces to functions and symbols aren't yet defined
+22. linker
+The linker program takes objects files and adds any runtime library routines that are referenced
+in the object file
+23. file extension
+C++ compilers recognize the following extensions .C, .cc, .cpp, .CPP, .c++, .cp, or .cxx
+24. whitespace
+whitespace is the blanks between characters or strings and can be created using the space bar
