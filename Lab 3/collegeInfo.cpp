@@ -1,7 +1,12 @@
-// CIS22A
-// Siddharth Buddharaju
-// Lab 3
+// 
 //
+/*
+CIS22A
+Siddharth Buddharaju
+Lab 3
+This program presents the user with 8 options and displays
+the information associated with the option the user chooses.
+*/
 #include<iostream>
 using namespace std;
 

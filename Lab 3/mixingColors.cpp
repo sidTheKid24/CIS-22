@@ -1,3 +1,11 @@
+/*
+CIS22A
+Siddharth Buddharaju
+Lab 3
+Asks the user to enter in two primary colors
+and displays the resulting secondary color
+*/
+
 #include<iostream>
 
 using namespace std;
