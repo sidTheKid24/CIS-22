@@ -1,0 +1,4 @@
+13:45 hours is valid and minutes is valid
+25:30 hours is invalid and minutes is valid
+11:33 hours is valid and minutes is valid
+26:61 hours is invalid and minutes is invalid

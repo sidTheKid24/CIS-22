@@ -1,6 +1,6 @@
 // CIS22A
-// Your Name goes here
-// Lab Assignment Name/number
+// Siddharth Buddharaju
+// Lab 1A
 //
 
 #include <iostream>     // needed to perform C++ I/O
