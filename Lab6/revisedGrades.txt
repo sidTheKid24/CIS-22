@@ -1,0 +1,4 @@
+Name            Exam1   Exam2   Exam3   Total of Scores Average of Scores
+
+John            99.0    90.0    189.0           94.5            
+
